@@ -17,7 +17,7 @@
    inkscape:version="0.48.1 "
    style="display:inline"
    sodipodi:docname="skip.svg"
-   inkscape:export-filename="E:\Data\Programming\TraktUtilities\media-original\current-no-rating.png"
+   inkscape:export-filename="E:\Data\Programming\TraktUtilities\media-original\skip-rating.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -415,7 +415,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
